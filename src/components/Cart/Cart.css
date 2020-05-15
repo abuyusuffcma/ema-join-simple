@@ -1,0 +1,8 @@
+.perviewBtn{
+    background-color: goldenrod;
+    border: 1px solid gray;
+    border-radius: 5px;
+    width: 150px;
+    height: 30px;
+    cursor: pointer;
+}

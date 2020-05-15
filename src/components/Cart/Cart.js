@@ -37,6 +37,8 @@ const Cart = (props) => {
             <p><small> Shipping Cost : {shipping}</small></p>
             <p><small>Tax : {tax}</small></p>
             <p>Total Price: {grandTotal}</p>
+            <br/>
+            <button className="perviewBtn" >Preview Order</button>
     
 
         </div>
